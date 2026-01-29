@@ -1,12 +1,12 @@
 # Tiago Foa 👋  
 <p align="center">
-  <img width="163" src="https://raw.githubusercontent.com/jtfb/jtfb/main/assets/logo_tiagofoa.png" alt="Tiago Foa Logo"/>
+  <img width="160" src="https://raw.githubusercontent.com/jtfb/jtfb/main/assets/logo_tiagofoa.png" alt="Tiago Foa Logo"/>
 </p>
 
-### Senior Imaging Engineer · Machine Learning · AI-Driven Image Systems
+<h3 align="center">Senior Imaging Engineer · Machine Learning · AI-Driven Image Systems</h3>
 
 <p align="center">
-  <img width="900" src="https://raw.githubusercontent.com/jtfb/assets/bg.png&w=1200&q=80" alt="AI & Image Science banner"/>
+  <img width="100%" src="https://raw.githubusercontent.com/jtfb/assets/main/bg.png" alt="AI & Image Science banner"/>
 </p>
 
 <p align="center">
@@ -19,8 +19,7 @@
 
 ## 👨‍💻 About Me
 
-I am a senior technical professional with **20+ years of experience** across film, visual effects, and high-end post-production.  
-My work sits at the intersection of **image science, software engineering, and data-driven systems**, with a strong focus on **machine learning and AI-assisted workflows**.
+I am a senior technical professional with **20+ years of experience** across film, visual effects, and high-end post-production. My work sits at the intersection of **image science, software engineering, and data-driven systems**, with a strong focus on **machine learning and AI-assisted workflows**.
 
 I specialize in building **production-safe tools**, scalable pipelines, and analytical systems that turn complex visual data into **reliable, explainable results**.
 
@@ -28,116 +27,78 @@ I specialize in building **production-safe tools**, scalable pipelines, and anal
 
 ## 🧠 Core Expertise
 
-### Machine Learning & Data
-- Applied machine learning for image analysis and prediction  
-- Regression, classification, feature engineering  
-- Model evaluation, metrics, and validation  
-- Data-driven decision making for production pipelines  
+### 🤖 Machine Learning & Data
+- **Applied ML:** Image analysis, predictive modeling, and feature engineering.
+- **Data Science:** Regression, classification, and model evaluation (University of Toronto).
+- **Validation:** Implementing robust metrics for production-ready AI.
 
-### Image Science & VFX Engineering
-- OCIO / ACES pipelines (ACEScg, HDR, SDR)
-- Camera colour science, LUTs, CDL workflows
-- EXR pipelines, compression strategies, metadata validation
-- Automated QC, ΔE image comparison
+### 🧪 Image Science & VFX Engineering
+- **Pipelines:** Expert in OCIO / ACES (ACEScg, HDR, SDR) and camera color science.
+- **Imaging:** EXR pipelines, compression strategies, and metadata validation.
+- **Quality Control:** Automated QC and ΔE image comparison tools.
 
-### Software & Tooling
-- **Python** (NumPy, Pandas, OpenCV, OpenImageIO, OpenColorIO)
-- **SQL** for data analysis and validation
-- Git, GitHub, automation tooling
-- Production-oriented scripting and services
-
----
-
-## 🎓 Education & Continuous Learning
-
-- **Machine Learning** — University of Toronto  
-- **Data Science & Analytics** — Data Science Institute  
-- Advanced coursework in:
-  - Python for ML & data
-  - SQL & data modeling
-  - Statistics & linear algebra
-  - Image mathematics
+### 💻 Software & Tooling
+- **Python:** NumPy, Pandas, OpenCV, OpenImageIO, OpenColorIO.
+- **Database:** SQL for large-scale production data analysis.
+- **Automation:** Production-oriented scripting and Git-based CI/CD workflows.
 
 ---
 
 ## 🎬 Selected Film & TV Credits
+*Working with studios like Mr. X, Netflix, Disney, and Paramount+*
 
 <p align="center">
   <a href="https://www.imdb.com/title/tt18335752">
-    <img height="170" src="https://raw.githubusercontent.com/jtfb/assets/1923.png" />
+    <img height="170" src="https://raw.githubusercontent.com/jtfb/assets/main/1923.png" alt="1923"/>
   </a>
   <a href="https://www.imdb.com/title/tt10954600">
-    <img height="170" src="https://raw.githubusercontent.com/jtfb/assets/ant_men.png" />
+    <img height="170" src="https://raw.githubusercontent.com/jtfb/assets/main/ant_men.png" alt="Ant-Man"/>
   </a>
-  <a href="[https://www.imdb.com/title/tt10872600">
-    <img height="170" src="https://raw.githubusercontent.com/jtfb/assets/beacon_23.png" />
+  <a href="https://www.imdb.com/title/tt10872600">
+    <img height="170" src="https://raw.githubusercontent.com/jtfb/assets/main/beacon_23.png" alt="Beacon 23"/>
   </a>
   <a href="https://www.imdb.com/title/tt17720272">
-    <img height="170" src="https://raw.githubusercontent.com/jtfb/assets/goosebumps.png" />
+    <img height="170" src="https://raw.githubusercontent.com/jtfb/assets/main/goosebumps.png" alt="Goosebumps"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.imdb.com/title/tt14759574">
-    <img height="170" src="https://raw.githubusercontent.com/jtfb/assets/mrs_davis.png" />
+    <img height="170" src="https://raw.githubusercontent.com/jtfb/assets/main/mrs_davis.png" alt="Mrs. Davis"/>
   </a>
   <a href="https://www.imdb.com/title/tt12324366">
-    <img height="170" src="https://raw.githubusercontent.com/jtfb/assets/percy_jackson.png" />
+    <img height="170" src="https://raw.githubusercontent.com/jtfb/assets/main/percy_jackson.png" alt="Percy Jackson"/>
   </a>
   <a href="https://www.imdb.com/title/tt13157618">
-    <img height="170" src="https://raw.githubusercontent.com/jtfb/assets/secret_invasion.png" />
+    <img height="170" src="https://raw.githubusercontent.com/jtfb/assets/main/secret_invasion.png" alt="Secret Invasion"/>
   </a>
   <a href="https://www.imdb.com/title/tt11858890">
-    <img height="170" src="https://raw.githubusercontent.com/jtfb/assets/the_creator.png" />
+    <img height="170" src="https://raw.githubusercontent.com/jtfb/assets/main/the_creator.png" alt="The Creator"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.imdb.com/name/nm10034786/">🔗 Full IMDb Credits</a>
+  <a href="https://www.imdb.com/name/nm10034786/">🔗 <b>View Full Credits on IMDb</b></a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
-
+## 📊 GitHub Ecosystem
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jtfb&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtfb&layout=compact&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jtfb&show_icons=true&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtfb&layout=compact&theme=tokyonight" />
 </p>
-
----
-
-## 🧩 GitHub Focus
-
-This profile showcases:
-- ML-driven image analysis & prediction
-- Colour science experiments & validation tools
-- Pipeline automation & QC systems
-- Research-oriented prototypes bridging **AI ↔ production**
 
 ---
 
 ## 🧭 Professional Philosophy
 
-I build systems that are:
-- **Correct before clever**
-- **Explainable before opaque**
-- **Production-safe before experimental**
+> "Correct before clever. Explainable before opaque. Production-safe before experimental."
 
-My goal is to transform complex visual and data signals into **robust, scalable, real-world solutions**.
+I am dedicated to transforming complex visual signals into **robust, scalable, real-world solutions**—turning bytes into magic.
 
 ---
 
-📍 Paris, France  
-🌐 https://tiagofoa.com  
-💼 https://www.linkedin.com/in/jtfb/  
-🎬 https://www.imdb.com/name/nm10034786/
-
----
-
-Whether working with images, data, or models, my goal is always the same:  
-**turn complex signals into reliable, actionable outcomes. Turning Bytes into Magic**
-
----
-
-*Blending image science, machine learning, and real-world production constraints.*
+<p align="center">
+  📍 Toronto, Canada | 🌐 <a href="https://tiagofoa.com">tiagofoa.com</a>
+</p>
