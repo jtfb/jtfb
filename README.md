@@ -1,6 +1,6 @@
 # Tiago Foa 👋  
 <p align="center">
-  <img width="163" src="https://github.com/jtfb/jtfb/tree/main/assets/logo_tiagofoa.png&w=148&q=80" alt="AI & Image Science banner"/>
+  <img width="163" src="https://github.com/jtfb/jtfb/blob/main/assets/logo_tiagofoa.png&w=148&q=80" alt="AI & Image Science banner"/>
 </p>
 
 ### Senior Imaging Engineer · Machine Learning · AI-Driven Image Systems
