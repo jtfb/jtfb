@@ -93,7 +93,7 @@ I specialize in building **production-safe tools**, scalable pipelines, and anal
 
 ## 🧭 Professional Philosophy
 
-> "Correct before clever. Explainable before opaque. Production-safe before experimental."
+> "*Blending the art of the frame with the logic of the code.*"
 
 I am dedicated to transforming complex visual signals into **robust, scalable, real-world solutions**—turning bytes into magic.
 
