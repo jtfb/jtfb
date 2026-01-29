@@ -1,6 +1,7 @@
-# Tiago Foa
-<img width="90" src="https://raw.githubusercontent.com/jtfb/jtfb/main/assets/logo_tiagofoa.png" alt="Tiago Foa Logo"/>
-
+<h1 align="center">
+  Tiago Foa 
+  <img src="https://raw.githubusercontent.com/jtfb/jtfb/main/assets/logo_tiagofoa.png" width="60" />
+</h1>
 
 <h3 align="center">Senior Imaging Engineer · Machine Learning · AI-Driven Image Systems</h3>
 
