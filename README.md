@@ -52,7 +52,7 @@ I specialize in building **production-safe tools**, scalable pipelines, and anal
     <img height="170" src="https://raw.githubusercontent.com/jtfb/jtfb/main/assets/1923.png" alt="1923"/>
   </a>
   <a href="https://www.imdb.com/title/tt10954600">
-    <img height="170" src="https://raw.githubusercontent.com/jtfb/jtfb/main/assets/ant_men.png" alt="Ant-Man"/>
+    <img height="170" src="https://raw.githubusercontent.com/jtfb/jtfb/main/assets/ant_men_wasp.png" alt="Ant-Man"/>
   </a>
   <a href="https://www.imdb.com/title/tt10872600">
     <img height="170" src="https://raw.githubusercontent.com/jtfb/jtfb/main/assets/beacon_23.png" alt="Beacon 23"/>
