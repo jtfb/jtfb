@@ -1,9 +1,9 @@
-# Tiago Foa <img src="https://raw.githubusercontent.com/jtfb/jtfb/main/assets/logo_tiagofoa.png" width="90" align="right" />
+# Tiago Foa <img src="https://raw.githubusercontent.com/jtfb/jtfb/main/assets/logo_tiagofoa.png" width="50" align="right" />
 
 <h3 align="center">Senior Imaging Engineer · Machine Learning · AI-Driven Image Systems</h3>
 
 <p align="center">
-  <img width="100%" height="200" src="https://raw.githubusercontent.com/jtfb/jtfb/main/assets/bg.png" alt="AI & Image Science banner" style="object-fit: cover;"/>
+  <img height="200" src="https://raw.githubusercontent.com/jtfb/jtfb/main/assets/bg.png" alt="AI & Image Science banner"/>
 </p>
 
 <p align="center">
