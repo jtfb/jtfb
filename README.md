@@ -3,7 +3,7 @@
 <h3 align="center">Senior Imaging Engineer · Machine Learning · AI-Driven Image Systems</h3>
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/jtfb/jtfb/main/assets/bg.png" alt="AI & Image Science banner"/>
+  <img width="100%" height="200" src="https://raw.githubusercontent.com/jtfb/jtfb/main/assets/bg.png" alt="AI & Image Science banner" style="object-fit: cover;"/>
 </p>
 
 <p align="center">
