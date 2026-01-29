@@ -1,6 +1,6 @@
 # Tiago Foa 👋  
 <p align="center">
-  <img width="160" src="https://raw.githubusercontent.com/jtfb/jtfb/main/assets/logo_tiagofoa.png" alt="Tiago Foa Logo"/>
+  <img width="100%" src="https://raw.githubusercontent.com/jtfb/jtfb/main/assets/logo_tiagofoa.png" alt="Tiago Foa Logo"/>
 </p>
 
 <h3 align="center">Senior Imaging Engineer · Machine Learning · AI-Driven Image Systems</h3>
@@ -100,5 +100,5 @@ I am dedicated to transforming complex visual signals into **robust, scalable, r
 ---
 
 <p align="center">
-  📍 Toronto, Canada | 🌐 <a href="https://tiagofoa.com">tiagofoa.com</a>
+  📍 Paris, France | 🌐 <a href="https://tiagofoa.com">tiagofoa.com</a>
 </p>
