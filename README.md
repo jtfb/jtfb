@@ -6,7 +6,7 @@
 <h3 align="center">Senior Imaging Engineer · Machine Learning · AI-Driven Image Systems</h3>
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/jtfb/assets/main/bg.png" alt="AI & Image Science banner"/>
+  <img width="100%" src="https://raw.githubusercontent.com/jtfb/jtfb/assets/main/bg.png" alt="AI & Image Science banner"/>
 </p>
 
 <p align="center">
@@ -49,31 +49,31 @@ I specialize in building **production-safe tools**, scalable pipelines, and anal
 
 <p align="center">
   <a href="https://www.imdb.com/title/tt18335752">
-    <img height="170" src="https://raw.githubusercontent.com/jtfb/assets/main/1923.png" alt="1923"/>
+    <img height="170" src="https://raw.githubusercontent.com/jtfb/jtfb/assets/main/1923.png" alt="1923"/>
   </a>
   <a href="https://www.imdb.com/title/tt10954600">
-    <img height="170" src="https://raw.githubusercontent.com/jtfb/assets/main/ant_men.png" alt="Ant-Man"/>
+    <img height="170" src="https://raw.githubusercontent.com/jtfb/jtfb/assets/main/ant_men.png" alt="Ant-Man"/>
   </a>
   <a href="https://www.imdb.com/title/tt10872600">
-    <img height="170" src="https://raw.githubusercontent.com/jtfb/assets/main/beacon_23.png" alt="Beacon 23"/>
+    <img height="170" src="https://raw.githubusercontent.com/jtfb/jtfb/assets/main/beacon_23.png" alt="Beacon 23"/>
   </a>
   <a href="https://www.imdb.com/title/tt17720272">
-    <img height="170" src="https://raw.githubusercontent.com/jtfb/assets/main/goosebumps.png" alt="Goosebumps"/>
+    <img height="170" src="https://raw.githubusercontent.com/jtfb/jtfb/assets/main/goosebumps.png" alt="Goosebumps"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.imdb.com/title/tt14759574">
-    <img height="170" src="https://raw.githubusercontent.com/jtfb/assets/main/mrs_davis.png" alt="Mrs. Davis"/>
+    <img height="170" src="https://raw.githubusercontent.com/jtfb/jtfb/assets/main/mrs_davis.png" alt="Mrs. Davis"/>
   </a>
   <a href="https://www.imdb.com/title/tt12324366">
-    <img height="170" src="https://raw.githubusercontent.com/jtfb/assets/main/percy_jackson.png" alt="Percy Jackson"/>
+    <img height="170" src="https://raw.githubusercontent.com/jtfb/jtfb/assets/main/percy_jackson.png" alt="Percy Jackson"/>
   </a>
   <a href="https://www.imdb.com/title/tt13157618">
-    <img height="170" src="https://raw.githubusercontent.com/jtfb/assets/main/secret_invasion.png" alt="Secret Invasion"/>
+    <img height="170" src="https://raw.githubusercontent.com/jtfb/jtfb/assets/main/secret_invasion.png" alt="Secret Invasion"/>
   </a>
   <a href="https://www.imdb.com/title/tt11858890">
-    <img height="170" src="https://raw.githubusercontent.com/jtfb/assets/main/the_creator.png" alt="The Creator"/>
+    <img height="170" src="https://raw.githubusercontent.com/jtfb/jtfb/assets/main/the_creator.png" alt="The Creator"/>
   </a>
 </p>
 
