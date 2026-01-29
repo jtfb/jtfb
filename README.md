@@ -1,124 +1,135 @@
 # Tiago Foa 👋  
-**Senior Imaging Engineer · Machine Learning Practitioner · Applied Image Science**
+### Senior Imaging Engineer · Machine Learning · AI-Driven Image Systems
 
-Paris, FR · Open to global opportunities  
-🌐 [tiagofoa.com](https://tiagofoa.com) · 💼 [LinkedIn](https://www.linkedin.com/in/jtfb/) · 🎬 [IMDb](https://www.imdb.com/name/nm10034786/)
+<p align="center">
+  <img width="900" src="https://images.unsplash.com/photo-1557683316-973673baf926?fit=crop&w=1200&q=80" alt="AI & Image Science banner"/>
+</p>
 
----
-
-## Profile
-
-I am a senior technical professional with **20+ years of experience at the intersection of image science, software engineering, and data-driven workflows**.  
-My background spans **high-end VFX, cinematic colour pipelines, and large-scale production environments**, where reliability, automation, and correctness are critical.
-
-In recent years, I have expanded this foundation into **machine learning, data analysis, and AI-assisted systems**, focusing on how models, statistics, and automation can improve **image workflows, quality control, prediction, and decision-making at scale**.
-
-I bring **production-proven rigor** to ML systems—and **ML thinking** to production pipelines.
-
----
-
-## Core Expertise
-
-### Machine Learning & Data
-- Applied **Machine Learning** for image analysis, prediction, and optimisation  
-- Feature engineering, regression & classification models  
-- Model evaluation, validation, and performance metrics  
-- Data-driven decision making for production pipelines  
-- Strong foundations in **statistics, linear algebra, and image math**
-
-### Image Science & VFX Engineering
-- OCIO / ACES colour pipelines (ACEScg, HDR, SDR, display-referred workflows)
-- Camera colour science, LUTs, CDL, calibration & transforms
-- EXR workflows, compression strategies, metadata validation
-- Technical QC, image comparison (ΔE), automation tooling
-- High-pressure delivery environments for film & streaming
-
-### Software & Tooling
-- **Python** (NumPy, OpenCV, OpenImageIO, OpenColorIO, Pandas)
-- **SQL** for data querying and validation
-- Git, GitHub, CI-friendly tooling
-- Automation scripts, internal tools, and pipeline services
-- Clean, readable, production-safe code
-
----
-
-## Selected Production Credits
-
-<details>
-<summary><strong>Film & Episodic (selected)</strong></summary>
-
-### 🎬 1923 (Paramount+)  
-**Senior Imaging Engineer — MARZ**  
-![1923](https://m.media-amazon.com/images/M/MV5BMmE4MDQ0ZmQtZjM2NS00YjY5LWIwM2EtNjk3YzRkMzY3ZTU0XkEyXkFqcGc@._V1_.jpg)
-
-### 🚀 Beacon 23 (MGM+)  
-**Senior Imaging Engineer — MARZ**  
-![Beacon 23](https://m.media-amazon.com/images/M/MV5BY2Q5ZjE5OWUtZmU3ZS00YzE3LTg2Y2EtODc2YzA2ZTA4OTlhXkEyXkFqcGc@._V1_.jpg)
-
-### ⚡ Percy Jackson and the Olympians (Disney+)  
-**Senior Imaging Engineer — MARZ**  
-![Percy Jackson](https://m.media-amazon.com/images/M/MV5BYzBlYjZmMzQtZDI4ZS00ZGY0LTk0Y2UtNjFiNmI5Njk5Y2RmXkEyXkFqcGc@._V1_.jpg)
-
-### 👻 Goosebumps (Disney+)  
-**Senior Imaging Engineer — MARZ**  
-![Goosebumps](https://m.media-amazon.com/images/M/MV5BMTQ4MzMxYjAtODU1Yi00M2I1LTg2ZDctM2E2M2JhMTY2ZjM5XkEyXkFqcGc@._V1_.jpg)
-
-### 🤖 The Creator (20th Century Studios)  
-**Senior Visual Effects Imaging Engineer — MARZ**  
-![The Creator](https://m.media-amazon.com/images/M/MV5BMTU5ODU4NTItZGI2Yi00YTI2LTg4M2EtNDcwZTA3ZDA5NzFiXkEyXkFqcGc@._V1_.jpg)
-
-### 🕵️ Secret Invasion (Marvel / Disney+)  
-**Imaging Engineer — MARZ**
-
-### 🌌 Mrs. Davis (Peacock)  
-**Senior Imaging Engineer — MARZ**
-
-### 🐜 Ant-Man and the Wasp: Quantumania (Marvel)  
-**Senior Imaging Engineer — MARZ**
-
-### 🧛 Wednesday (Netflix)  
-**Imaging Engineer — Mr. X**
-
-### 🎥 Guillermo del Toro’s Cabinet of Curiosities (Netflix)  
-**Imaging Engineer**
-
-</details>
-
----
-
-## Education & Continuous Learning
-
-- **Machine Learning** — *University of Toronto*  
-- **Data Science & Analytics** — *Data Science Institute*  
-- Programming & CS coursework focused on:
-  - Python for data & ML
-  - SQL & data modelling
-  - Applied mathematics for imaging
-  - Statistical reasoning for real-world systems
-
----
-
-## GitHub Focus
-
-This GitHub reflects:
-- ML-driven image analysis & prediction tools  
-- Colour science experiments & validation utilities  
-- Pipeline automation & technical QC systems  
-- Research-driven prototypes bridging **AI ↔ production**
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jtfb&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtfb&layout=compact&theme=tokyonight" height="165" />
+<p align="center">
+  <a href="https://tiagofoa.com">🌐 Portfolio</a> •
+  <a href="https://www.linkedin.com/in/jtfb/">💼 LinkedIn</a> •
+  <a href="https://www.imdb.com/name/nm10034786/">🎬 IMDb</a>
 </p>
 
 ---
 
-## Professional Philosophy
+## 👨‍💻 About Me
 
-I design systems that are:
+I am a senior technical professional with **20+ years of experience** across film, visual effects, and high-end post-production.  
+My work sits at the intersection of **image science, software engineering, and data-driven systems**, with a strong focus on **machine learning and AI-assisted workflows**.
+
+I specialize in building **production-safe tools**, scalable pipelines, and analytical systems that turn complex visual data into **reliable, explainable results**.
+
+---
+
+## 🧠 Core Expertise
+
+### Machine Learning & Data
+- Applied machine learning for image analysis and prediction  
+- Regression, classification, feature engineering  
+- Model evaluation, metrics, and validation  
+- Data-driven decision making for production pipelines  
+
+### Image Science & VFX Engineering
+- OCIO / ACES pipelines (ACEScg, HDR, SDR)
+- Camera colour science, LUTs, CDL workflows
+- EXR pipelines, compression strategies, metadata validation
+- Automated QC, ΔE image comparison
+
+### Software & Tooling
+- **Python** (NumPy, Pandas, OpenCV, OpenImageIO, OpenColorIO)
+- **SQL** for data analysis and validation
+- Git, GitHub, automation tooling
+- Production-oriented scripting and services
+
+---
+
+## 🎓 Education & Continuous Learning
+
+- **Machine Learning** — University of Toronto  
+- **Data Science & Analytics** — Data Science Institute  
+- Advanced coursework in:
+  - Python for ML & data
+  - SQL & data modeling
+  - Statistics & linear algebra
+  - Image mathematics
+
+---
+
+## 🎬 Selected Film & TV Credits
+
+<p align="center">
+  <a href="https://www.imdb.com/title/tt18335752/">
+    <img height="170" src="https://m.media-amazon.com/images/M/MV5BMmE4MDQ0ZmQtZjM2NS00YjY5LWIwM2EtNjk3YzRkMzY3ZTU0XkEyXkFqcGc@._V1_.jpg" />
+  </a>
+  <a href="https://www.imdb.com/title/tt15541140/">
+    <img height="170" src="https://m.media-amazon.com/images/M/MV5BY2Q5ZjE5OWUtZmU3ZS00YzE3LTg2Y2EtODc2YzA2ZTA4OTlhXkEyXkFqcGc@._V1_.jpg" />
+  </a>
+  <a href="https://www.imdb.com/title/tt10872600/">
+    <img height="170" src="https://m.media-amazon.com/images/M/MV5BYzBlYjZmMzQtZDI4ZS00ZGY0LTk0Y2UtNjFiNmI5Njk5Y2RmXkEyXkFqcGc@._V1_.jpg" />
+  </a>
+  <a href="https://www.imdb.com/title/tt12648170/">
+    <img height="170" src="https://m.media-amazon.com/images/M/MV5BMTQ4MzMxYjAtODU1Yi00M2I1LTg2ZDctM2E2M2JhMTY2ZjM5XkEyXkFqcGc@._V1_.jpg" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.imdb.com/title/tt2654580/">
+    <img height="170" src="https://m.media-amazon.com/images/M/MV5BMTU5ODU4NTItZGI2Yi00YTI2LTg4M2EtNDcwZTA3ZDA5NzFiXkEyXkFqcGc@._V1_.jpg" />
+  </a>
+  <a href="https://www.imdb.com/title/tt9114666/">
+    <img height="170" src="https://m.media-amazon.com/images/M/MV5BNjM2Mjc1MjAyMF5BMl5BanBnXkFtZTgwNzY4NzUyNzM@._V1_.jpg" />
+  </a>
+  <a href="https://www.imdb.com/title/tt15750854/">
+    <img height="170" src="https://m.media-amazon.com/images/M/MV5BODg3NjkyNjUxNF5BMl5BanBnXkFtZTgwNDQzNjQ5OTM@._V1_.jpg" />
+  </a>
+  <a href="https://www.imdb.com/title/tt10648342/">
+    <img height="170" src="https://m.media-amazon.com/images/M/MV5BNjE3NjYzOTc4Ml5BMl5BanBnXkFtZTcwNjUzNzEyNA@@._V1_.jpg" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.imdb.com/name/nm10034786/">🔗 Full IMDb Credits</a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jtfb&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtfb&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🧩 GitHub Focus
+
+This profile showcases:
+- ML-driven image analysis & prediction
+- Colour science experiments & validation tools
+- Pipeline automation & QC systems
+- Research-oriented prototypes bridging **AI ↔ production**
+
+---
+
+## 🧭 Professional Philosophy
+
+I build systems that are:
 - **Correct before clever**
 - **Explainable before opaque**
 - **Production-safe before experimental**
+
+My goal is to transform complex visual and data signals into **robust, scalable, real-world solutions**.
+
+---
+
+📍 Paris, France  
+🌐 https://tiagofoa.com  
+💼 https://www.linkedin.com/in/jtfb/  
+🎬 https://www.imdb.com/name/nm10034786/
+
+---
 
 Whether working with images, data, or models, my goal is always the same:  
 **turn complex signals into reliable, actionable outcomes. Turning Bytes into Magic**
