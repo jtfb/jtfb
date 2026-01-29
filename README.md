@@ -34,8 +34,8 @@ I am a Paris-based technical post-production professional with over 15 years of 
 
 ### 📈 GitHub Ecosystem
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Tiago's Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=jtfb&show_icons=true&theme=tokyonight" alt="Tiago's Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtfb&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
