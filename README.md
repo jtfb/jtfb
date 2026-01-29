@@ -1,8 +1,12 @@
 # Tiago Foa 👋  
+<p align="center">
+  <img width="163" src="https://raw.githubusercontent.com/jtfb/assets/logo_tiagofoa.png&w=148&q=80" alt="AI & Image Science banner"/>
+</p>
+
 ### Senior Imaging Engineer · Machine Learning · AI-Driven Image Systems
 
 <p align="center">
-  <img width="900" src="https://images.unsplash.com/photo-1557683316-973673baf926?fit=crop&w=1200&q=80" alt="AI & Image Science banner"/>
+  <img width="900" src="https://raw.githubusercontent.com/jtfb/assets/bg.png&w=1200&q=80" alt="AI & Image Science banner"/>
 </p>
 
 <p align="center">
@@ -59,32 +63,32 @@ I specialize in building **production-safe tools**, scalable pipelines, and anal
 ## 🎬 Selected Film & TV Credits
 
 <p align="center">
-  <a href="https://www.imdb.com/title/tt18335752/">
-    <img height="170" src="https://m.media-amazon.com/images/M/MV5BMmE4MDQ0ZmQtZjM2NS00YjY5LWIwM2EtNjk3YzRkMzY3ZTU0XkEyXkFqcGc@._V1_.jpg" />
+  <a href="https://www.imdb.com/title/tt18335752">
+    <img height="170" src="https://raw.githubusercontent.com/jtfb/assets/1923.png" />
   </a>
-  <a href="https://www.imdb.com/title/tt15541140/">
-    <img height="170" src="https://m.media-amazon.com/images/M/MV5BY2Q5ZjE5OWUtZmU3ZS00YzE3LTg2Y2EtODc2YzA2ZTA4OTlhXkEyXkFqcGc@._V1_.jpg" />
+  <a href="https://www.imdb.com/title/tt10954600">
+    <img height="170" src="https://raw.githubusercontent.com/jtfb/assets/ant_men.png" />
   </a>
-  <a href="https://www.imdb.com/title/tt10872600/">
-    <img height="170" src="https://m.media-amazon.com/images/M/MV5BYzBlYjZmMzQtZDI4ZS00ZGY0LTk0Y2UtNjFiNmI5Njk5Y2RmXkEyXkFqcGc@._V1_.jpg" />
+  <a href="[https://www.imdb.com/title/tt10872600">
+    <img height="170" src="https://raw.githubusercontent.com/jtfb/assets/beacon_23.png" />
   </a>
-  <a href="https://www.imdb.com/title/tt12648170/">
-    <img height="170" src="https://m.media-amazon.com/images/M/MV5BMTQ4MzMxYjAtODU1Yi00M2I1LTg2ZDctM2E2M2JhMTY2ZjM5XkEyXkFqcGc@._V1_.jpg" />
+  <a href="https://www.imdb.com/title/tt17720272">
+    <img height="170" src="https://raw.githubusercontent.com/jtfb/assets/goosebumps.png" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.imdb.com/title/tt2654580/">
-    <img height="170" src="https://m.media-amazon.com/images/M/MV5BMTU5ODU4NTItZGI2Yi00YTI2LTg4M2EtNDcwZTA3ZDA5NzFiXkEyXkFqcGc@._V1_.jpg" />
+  <a href="https://www.imdb.com/title/tt14759574">
+    <img height="170" src="https://raw.githubusercontent.com/jtfb/assets/mrs_davis.png" />
   </a>
-  <a href="https://www.imdb.com/title/tt9114666/">
-    <img height="170" src="https://m.media-amazon.com/images/M/MV5BNjM2Mjc1MjAyMF5BMl5BanBnXkFtZTgwNzY4NzUyNzM@._V1_.jpg" />
+  <a href="https://www.imdb.com/title/tt12324366">
+    <img height="170" src="https://raw.githubusercontent.com/jtfb/assets/percy_jackson.png" />
   </a>
-  <a href="https://www.imdb.com/title/tt15750854/">
-    <img height="170" src="https://m.media-amazon.com/images/M/MV5BODg3NjkyNjUxNF5BMl5BanBnXkFtZTgwNDQzNjQ5OTM@._V1_.jpg" />
+  <a href="https://www.imdb.com/title/tt13157618">
+    <img height="170" src="https://raw.githubusercontent.com/jtfb/assets/secret_invasion.png" />
   </a>
-  <a href="https://www.imdb.com/title/tt10648342/">
-    <img height="170" src="https://m.media-amazon.com/images/M/MV5BNjE3NjYzOTc4Ml5BMl5BanBnXkFtZTcwNjUzNzEyNA@@._V1_.jpg" />
+  <a href="https://www.imdb.com/title/tt11858890">
+    <img height="170" src="https://raw.githubusercontent.com/jtfb/assets/the_creator.png" />
   </a>
 </p>
 
