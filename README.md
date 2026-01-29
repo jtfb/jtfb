@@ -42,7 +42,7 @@ I specialize in building **production-safe tools**, scalable pipelines, and anal
 ---
 
 ## 🎬 Selected Film & TV Credits
-*Working with studios like Mr. X, Netflix, Disney, and Paramount+*
+*Working with studios like One Of Us, Technicolor, Mr.X, Netflix, Disney, and Paramount+*
 
 <p align="center">
   <a href="https://www.imdb.com/title/tt18335752">
